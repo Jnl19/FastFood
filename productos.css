@@ -1,0 +1,83 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+     font-family: "Noto Sans", sans-serif;
+    
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 125px;
+    
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.nav ul{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.nav{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+ul{
+    list-style: none;
+    text-decoration: none;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.titulos{
+    text-align: center
+}
+
+.Hamburguesas{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.Hamburguesas img{
+    margin: 25px;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    
+}
+
+.Pizzas{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.Pizzas img{
+    margin: 25px;
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    
+}

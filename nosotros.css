@@ -1,0 +1,100 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+     font-family: "Noto Sans", sans-serif;
+    
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 125px;
+    
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+
+.nosotros{
+    display: flex;
+    width: 500px;
+}
+
+.logo{
+    width: 150px;
+}
+
+.nav ul{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.nav{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+ul{
+    list-style: none;
+    text-decoration: none;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.titulo1{
+    display: flex;
+    justify-content: center;
+}
+
+.Contenido-desarrollo {
+    display: flex;
+    justify-content: center;
+   text-align: center;
+    
+   
+}
+
+.nosotros{
+    margin: 50px;
+    display: flex;
+    height: 300px;
+    width: 300px;
+    gap:   250px;
+    justify-items: center;
+}
+
+.Contactos{
+    text-align: center;
+}
+
+/*.Contactos p {
+    display: flex;
+    margin: 10px;
+}
+
+.Contactos h2{
+    display: flex;
+   justify-content: center;
+}
+
+.p1{
+    color: red;
+}
+
+.p2{
+    color: blue ;
+}

@@ -1,0 +1,104 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+     font-family: "Noto Sans", sans-serif;
+    
+}
+
+.header{
+    background-color: black;
+    display: flex;
+    color: white;
+    height: 125px;
+    
+}
+
+.logo{
+    width: 150px;
+}
+
+.nav{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+.nav ul{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    vertical-align: middle;
+}
+
+
+
+.welcome{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.Conteiner{
+ padding: 25px;
+ text-align: center;
+   
+}
+
+.titulo2{
+    display: flex;
+    justify-content: center;
+}
+
+.productos{
+  display: flex;
+  gap: 50px;
+ 
+}
+
+.productos1{
+    display: flex;
+    width: 10px;
+}
+
+.producto1{
+    height:250px;
+}
+
+.producto2{
+    height: 250px;
+}
+
+.producto3{
+    height: 250px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 150px;
+}
+
+.hamburguesa{
+    color: gray;
+}
+
+.pizza{
+    color: red;
+}
+
+.hotdog{
+    color: blue;
+}
+
+a{
+    color: white;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
